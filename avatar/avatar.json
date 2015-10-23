@@ -219,7 +219,7 @@
 				"uuid": "2695B432-D306-41AF-AC5F-FD062F7FFF8B",
 				"type": "Object3D",
 				"name": "steve-rig-test.obj",
-				"matrix": [20,0,0,0,0,20,0,0,0,0,20,0,0,-50,0,1],
+				"matrix": [25,0,0,0,0,25,0,0,0,0,25,0,0,-60,0,1],
 				"children": [
 					{
 						"uuid": "4140384A-8334-479F-AA17-7CC1F9327E7E",
